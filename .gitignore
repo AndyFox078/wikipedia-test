@@ -1,0 +1,9 @@
+# Ігнорування файлів середовища
+*.env
+
+# Папки з результатами тестів
+test-report/
+test-results/
+
+# Node.js залежності
+node_modules/
